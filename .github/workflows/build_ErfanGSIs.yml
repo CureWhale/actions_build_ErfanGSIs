@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/developers/android/sc/images/factory/raven-s2b3.220205.007.a1-factory-ae94a876.zip
-  ROM_NAME: Pixel
+  ROM_URL: https://github.com/dotos-downloads/arm64/releases/download/v5.2/dotOS-R-v5.2-arm64-ab-VANILLA-OFFICIAL.img.xz
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
