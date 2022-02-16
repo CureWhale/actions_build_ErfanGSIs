@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://github.com/dotos-downloads/arm64/releases/download/v5.2/dotOS-R-v5.2-arm64-ab-VANILLA-OFFICIAL.img.xz
-  ROM_NAME: Generi
+  ROM_URL: https://github.com/dotos-downloads/arm64/releases/download/v5.2/dotOS-R-v5.2-arm64-ab-GAPPS-OFFICIAL.img.xz
+  ROM_NAME: Generic 
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
