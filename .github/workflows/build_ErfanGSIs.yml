@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://github.com/dotos-downloads/arm64/releases/download/v5.2/dotOS-R-v5.2-arm64-ab-GAPPS-OFFICIAL.img.xz
-  ROM_NAME: Generic 
+  ROM_URL: https://udomain.dl.sourceforge.net/project/pixelos-releases/twelve/alioth/PixelOS_alioth-12.0-20220211-2143.zip
+  ROM_NAME: Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
